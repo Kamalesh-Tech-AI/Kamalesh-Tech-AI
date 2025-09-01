@@ -3,7 +3,7 @@ B.Tech in Artificial Intelligence & Data Science (Gojan School of Business and T
 Building useful things at the intersection of AI, data, and automation.
 3rd‑year student shipping real projects: full‑stack apps, AI tooling, and optimization systems.
 
-![Profile Views](https://komarev.com/ghpvc/?usernamee/Pythoncript AI, Data Analysis, and problem solving.
+![Profile Views](https://github.com/Kamalesh-Tech-AI AI, Data Analysis, and problem solving.
 
 Exploring DSA for AI, intelligent routing, and data‑driven product thinking.
 
