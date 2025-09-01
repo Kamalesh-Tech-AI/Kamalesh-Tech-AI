@@ -60,7 +60,5 @@ Stats
 Contact
 Email: kamalesh3703s@gmail.com
 
-Phone: +91 93420 97741
-
 Location: Chennai, Tamil Nadu
 
