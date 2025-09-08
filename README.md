@@ -1,4 +1,4 @@
-![Banner](https://github.com/Kamalesh-Tech-AI/kk/blob/main/538c100b-db2e-4a1f-b0b4-e69d79e41db1-removebg-preview.png) <!-- Replace with your uploaded image URL, e.g., assets/banner.jpg -->
+![Banner](https://github.com/Kamalesh-Tech-AI/kk/blob/main/14682ea4-31ff-4bfc-bdbf-7a965cbb6413.jpg) <!-- Replace with your uploaded image URL, e.g., assets/banner.jpg -->
 
 # I'M KAMALESH S 🐻‍❄️
 ## About Me
