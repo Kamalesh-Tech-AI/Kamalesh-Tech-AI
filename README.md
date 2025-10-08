@@ -1,5 +1,3 @@
-![Banner](https://github.com/Kamalesh-Tech-AI/kk/blob/main/14682ea4-31ff-4bfc-bdbf-7a965cbb6413.jpg) <!-- Replace with your uploaded image URL, e.g., assets/banner.jpg -->
-
 # I'M KAMALESH S 🐻‍❄️
 ## About Me
  I'm 3rd year AI&DS student working on computer languages and tools.I’ll take a potato chips and write some code!
